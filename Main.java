@@ -1,13 +1,10 @@
+import java.util.HashMap;
+import java.util.Map;
 
 public class Main {
-    public static int sum( int n) {
-        int sum = 0;
-        n = 5;
-        for(int i = 1 ; i <= n ; i++) {
-            sum += n;
-        }
-        return sum;
-    }
-    public static void main(String[] args)throws Exception {
+    public static void main(String[] args) {
+        System.out.println("111");
+        System.out.println("222");
+        System.out.println("333");
     }
 }
